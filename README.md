@@ -12,3 +12,4 @@ Gumb ZERO spremeni barvo, ko je števec aktiven, in se ob ponastavitvi vrne na s
 Java – programska logika in obdelava dogodkov.
 XML – oblikovanje uporabniškega vmesnika.
 ConstraintLayout – razporejanje elementov in določanje omejitev.
+<img width="205" height="401" alt="Screenshot 2026-11-01 at 21 27 43" src="https://github.com/user-attachments/assets/d7ac6867-c467-487b-8b75-b7a3f30ee6d7" />
